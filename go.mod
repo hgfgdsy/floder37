@@ -1,4 +1,4 @@
-module floder37
+module github.com/hgfgdsy/floder37
 
 go 1.15
 
